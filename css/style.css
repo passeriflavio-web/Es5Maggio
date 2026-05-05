@@ -1,4 +1,12 @@
 .pagamento{
     color: blue;
     font-size: 150%;
+    margin: 60px;
+    text-align: center;
+    padding: 10px;
+    background-color: rebeccapurple;
+}
+.pagamento button:hover{
+    background-color: aquamarine;
+    transition: 1s;
 }
